@@ -215,6 +215,9 @@ dtb-$(CONFIG_ARCH_MXC) += imx8mp-evk-revb4-sof-wm8962.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8mp-evk-revb4-rpmsg.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8mp-evk-revb4-rpmsg-lpv.dtb
 
+dtb-$(CONFIG_ARCH_MXC) += imx8mp-debix-model-a.dtb
+dtb-$(CONFIG_ARCH_MXC) += imx8mp-debix-model-a-io-imx219.dtbo
+dtb-$(CONFIG_ARCH_MXC) += imx8mp-debix-model-a-io-ov5640.dtbo
 dtb-$(CONFIG_ARCH_MXC) += imx8mq-evk.dtb imx8mq-evk-rpmsg.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8mq-evk.dtb imx8mq-evk-rpmsg.dtb imx8mq-evk-pcie1-m2.dtb imx8mq-evk-usd-wifi.dtb \
 			  imx8mq-evk-usdhc2-m2.dtb
