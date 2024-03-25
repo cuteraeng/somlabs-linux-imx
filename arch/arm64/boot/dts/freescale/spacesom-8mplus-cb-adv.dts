@@ -761,14 +761,6 @@
         };
 };
 
-&isi_1 {
-        status = "okay";
-
-        cap_device {
-                status = "okay";
-        };
-};
-
 &flexcan1 {
         status = "okay";
 };
